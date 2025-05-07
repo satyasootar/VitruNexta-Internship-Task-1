@@ -1,6 +1,7 @@
 # JobBoard - Modern Job Board Application
 
-![JobBoard Preview](./preview.jpg) *Add screenshot of your project here*
+![JobBoard Preview](./image.png) _Add screenshot of your project here_
+
 
 A modern, responsive job board website featuring company listings, job postings, blog articles, and contact functionality. Built with pure HTML, CSS, and JavaScript.
 
